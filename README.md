@@ -23,13 +23,13 @@ If you want to add anything to this page, submit a pull request!
 
 ## Spring 2016
 * [CS88](http://cs88-website.github.io/) - Computational Structures in Data Science
-* INFO88 - Data and Ethics
+* [INFO88](http://data8.org/ethics-connector/) - Data and Ethics
 * CogSCI88 - Data Science and the Mind
 * CEE 88 - Data Science for Smart Cities
-* ESPM 88B - Data Sciences in Ecology and the Environment
+* [ESPM 88B](http://data8.org/ecology-connector/) - Data Sciences in Ecology and the Environment
 * ESPM 88A - Exploring Geospatial Data
-* L&S 88-1 - Health, Human Behavior, and Data
-* HIST 88 - How Does History Count?
+* [L&S 88-1](http://u.demog.berkeley.edu/~redwards/ls88.html) - Health, Human Behavior, and Data
+* [HIST 88](http://data8.org/history-connector/) - How Does History Count?
 * STAT 89A - Introduction to Matrices and Graphs in Data Science
 * L&S 88-2 - Literature and Data
 * STAT 88 - Probability and Mathematical Statistics in Data Science
