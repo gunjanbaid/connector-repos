@@ -2,7 +2,7 @@
 
 The links below point to connector course websites, which should contain a syllabus of the course. 
 If the course did not have a website, I have added/will try to add just the syllabus. 
-If you want to add anything to this page, submit a pull request!
+If you want to add anything to this page, please submit a pull request!
 
 ## Spring 2017
 
