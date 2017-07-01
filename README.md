@@ -43,4 +43,4 @@ If you want to add anything to this page, please submit a pull request!
 * L&S 39E - Probability and Mathematical Statistics in Data Science
 * L&S 39D - Race, Policing, and Data Science
 
-<br>
+<br>  
