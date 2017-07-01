@@ -1,4 +1,5 @@
 <br> 
+
 # Connector Sites
 
 The links below point to connector course websites, which should contain a syllabus of the course. 
@@ -41,4 +42,5 @@ If you want to add anything to this page, please submit a pull request!
 * L&S 39C - How does History Count? Reading and Writing History in the Age of Big Data
 * L&S 39E - Probability and Mathematical Statistics in Data Science
 * L&S 39D - Race, Policing, and Data Science
+
 <br>
