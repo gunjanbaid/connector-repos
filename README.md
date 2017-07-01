@@ -15,7 +15,7 @@ If you want to add anything to this page, please submit a pull request!
 * INFO 88 - Data and Ethics
 * [L&S 88-5](http://data8.org/connector/Cognitive%20Neuroscience/) - Data Science for Cognitive Neuroscience
 * [Legal Studies 88](https://github.com/gunjanbaid/connector-sites/blob/gh-pages/assets/LegalStudies88/Sp17Syllabus.pdf) - Crime and Punishment: Taking the Measure of the US Justice System
-* MCB 88 - Immunotherapy of Cancer: Success and Failure
+* [MCB 88](https://github.com/gunjanbaid/connector-sites/blob/gh-pages/assets/MCB88/Sp17Schedule.pdf) - Immunotherapy of Cancer: Success and Failure
 * STAT 88 - Probability and Mathematical Statistics in Data Science
 * STAT 89A - Introduction to Matrices and Graphs in Data Science
 
