@@ -11,7 +11,7 @@ If you want to add anything to this page, please submit a pull request!
 * COGSCI 88 - Data Science and the Mind
 * ESPM 88-A - Exploring Geospatial Data
 * GEOG 88 - Data Science Applications in Geography
-* HIST 88 - How Does History Count? Exploring Japanese-American Internment through Digital Sources
+* [HIST 88](https://github.com/gunjanbaid/connector-sites/blob/gh-pages/assets/HIST88/Sp17Syllabus.pdf) - How Does History Count? Exploring Japanese-American Internment through Digital Sources
 * INFO 88 - Data and Ethics
 * [L&S 88-5](http://data8.org/connector/Cognitive%20Neuroscience/) - Data Science for Cognitive Neuroscience
 * [Legal Studies 88](https://github.com/gunjanbaid/connector-sites/blob/gh-pages/assets/LegalStudies88/Sp17Syllabus.pdf) - Crime and Punishment: Taking the Measure of the US Justice System
