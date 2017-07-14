@@ -16,7 +16,7 @@ If you want to add anything to this page, please submit a pull request!
 * STAT 88 - Probability and Mathematical Statistics in Data Science
 
 ## Spring 2017
-* [CIVENG 88B](https://github.com/gunjanbaid/connector-sites/tree/master/files/CE88B) - Time Series Analysis: Sea Level Rise and Coastal Flooding
+* [CIVENG 88B](https://github.com/gunjanbaid/connector-sites/tree/gh-pages/assets/CE88B) - Time Series Analysis: Sea Level Rise and Coastal Flooding
 * COGSCI 88 - Data Science and the Mind
 * ESPM 88-A - Exploring Geospatial Data
 * GEOG 88 - Data Science Applications in Geography
