@@ -6,8 +6,17 @@ The links below point to connector course websites, which should contain a sylla
 If the course did not have a website, I have added/will try to add just the syllabus. 
 If you want to add anything to this page, please submit a pull request!
 
+## Fall 2017
+* [CIVENG 88](http://www.miladmemarzadeh.com/ce88.html) - Data Science for Smart Cities
+* [COGSCI 88]() - Data Science and the Mind
+* [DEMOG 88]() - Immigration: What Do the Data Tell Us?
+* [L&S 88-1]() - Social Networks
+* [L&S 88-2]() - Web Data Visualization 
+* [L&S 88-3]() - Data Science for Cognitive Neuroscience
+* [STAT 88]() - Probability and Mathematical Statistics in Data Science
+
 ## Spring 2017
-* [CIV ENG 88B](https://github.com/gunjanbaid/connector-sites/tree/master/files/CE88B) - Time Series Analysis: Sea Level Rise and Coastal Flooding
+* [CIVENG 88B](https://github.com/gunjanbaid/connector-sites/tree/master/files/CE88B) - Time Series Analysis: Sea Level Rise and Coastal Flooding
 * COGSCI 88 - Data Science and the Mind
 * ESPM 88-A - Exploring Geospatial Data
 * GEOG 88 - Data Science Applications in Geography
