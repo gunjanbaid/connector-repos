@@ -17,7 +17,7 @@ If you want to add anything to this page, please submit a pull request!
 
 ## Spring 2017
 * [CIVENG 88B](https://github.com/gunjanbaid/connector-sites/tree/gh-pages/assets/CE88B) - Time Series Analysis: Sea Level Rise and Coastal Flooding
-* COGSCI 88 - Data Science and the Mind
+* [COGSCI 88](https://github.com/gunjanbaid/connector-sites/blob/gh-pages/assets/COGSCI88/Sp17Syllabus.pdf) - Data Science and the Mind
 * [ESPM 88-A](https://github.com/gunjanbaid/connector-sites/blob/gh-pages/assets/ESPM88A/Sp17Syllabus.pdf) - Exploring Geospatial Data
 * [GEOG 88](https://github.com/gunjanbaid/connector-sites/blob/gh-pages/assets/GEOG88/Sp17Syllabus.pdf) - Data Science Applications in Geography
 * [HIST 88](https://github.com/gunjanbaid/connector-sites/blob/gh-pages/assets/HIST88/Sp17Syllabus.pdf) - How Does History Count? Exploring Japanese-American Internment through Digital Sources
