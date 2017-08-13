@@ -15,6 +15,8 @@ The links below point either to a syllabus of the course OR a course website tha
 * [L&S 88-1](http://dennisfeehan.org/teaching/2017fa_ls88.html) - Social Networks
 * L&S 88-2 - Web Data Visualization 
 * [L&S 88-3](http://data8.org/cogneuro-connector/Fa17/) - Data Science for Cognitive Neuroscience
+* L&S 88-4 - Behind the Curtain in Economic Development
+* L&S 88-5 - Rediscovering Texts as Data
 * STAT 88 - Probability and Mathematical Statistics in Data Science
 
 # Spring 2017
