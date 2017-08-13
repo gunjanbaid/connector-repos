@@ -11,11 +11,10 @@ The links below point either to a syllabus of the course OR a course website tha
 
 # Fall 2017
 * [CIVENG 88](http://www.miladmemarzadeh.com/ce88.html) - Data Science for Smart Cities
-* COGSCI 88 - Data Science and the Mind
 * DEMOG 88 - Immigration: What Do the Data Tell Us?
 * [L&S 88-1](http://dennisfeehan.org/teaching/2017fa_ls88.html) - Social Networks
 * L&S 88-2 - Web Data Visualization 
-* L&S 88-3 - Data Science for Cognitive Neuroscience
+* [L&S 88-3](http://data8.org/cogneuro-connector/Fa17/) - Data Science for Cognitive Neuroscience
 * STAT 88 - Probability and Mathematical Statistics in Data Science
 
 # Spring 2017
