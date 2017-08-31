@@ -20,15 +20,15 @@ The links below point either to a syllabus of the course OR a course website tha
 * STAT 88 - Probability and Mathematical Statistics in Data Science
 
 # Spring 2017
-* [CIVENG 88B](/assets/CE88B/Sp17Syllabus.pdf) - Time Series Analysis: Sea Level Rise and Coastal Flooding
-* [COGSCI 88](/assets/COGSCI88/Sp17Syllabus.pdf) - Data Science and the Mind
-* [ESPM 88-A](/assets/ESPM88A/Sp17Syllabus.pdf) - Exploring Geospatial Data
-* [GEOG 88](/assets/GEOG88/Sp17Syllabus.pdf) - Data Science Applications in Geography
-* [HIST 88](/assets/HIST88/Sp17Syllabus.pdf) - How Does History Count? Exploring Japanese-American Internment through Digital Sources
+* [CIVENG 88B](https://gunjanbaid.github.io/connector-sites/assets/CE88B/Sp17Syllabus.pdf) - Time Series Analysis: Sea Level Rise and Coastal Flooding
+* [COGSCI 88](https://gunjanbaid.github.io/connector-sites/assets/COGSCI88/Sp17Syllabus.pdf) - Data Science and the Mind
+* [ESPM 88-A](https://gunjanbaid.github.io/connector-sites/assets/ESPM88A/Sp17Syllabus.pdf) - Exploring Geospatial Data
+* [GEOG 88](https://gunjanbaid.github.io/connector-sites/assets/GEOG88/Sp17Syllabus.pdf) - Data Science Applications in Geography
+* [HIST 88](https://gunjanbaid.github.io/connector-sites/assets/HIST88/Sp17Syllabus.pdf) - How Does History Count? Exploring Japanese-American Internment through Digital Sources
 * INFO 88 - Data and Ethics
 * [L&S 88-5](http://data8.org/connector/Cognitive%20Neuroscience/) - Data Science for Cognitive Neuroscience
-* [Legal Studies 88](/assets/LegalStudies88/Sp17Syllabus.pdf) - Crime and Punishment: Taking the Measure of the US Justice System
-* [MCB 88](/assets/MCB88/Sp17Schedule.pdf) - Immunotherapy of Cancer: Success and Failure
+* [Legal Studies 88](https://gunjanbaid.github.io/connector-sites/assets/LegalStudies88/Sp17Syllabus.pdf) - Crime and Punishment: Taking the Measure of the US Justice System
+* [MCB 88](https://gunjanbaid.github.io/connector-sites/assets/MCB88/Sp17Schedule.pdf) - Immunotherapy of Cancer: Success and Failure
 * STAT 88 - Probability and Mathematical Statistics in Data Science
 * STAT 89A - Introduction to Matrices and Graphs in Data Science
 
